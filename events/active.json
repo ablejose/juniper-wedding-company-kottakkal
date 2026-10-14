@@ -1,0 +1,32 @@
+{
+  "slug": "juniper-wedding-company-kottakkal",
+  "name": "Juniper Wedding Company",
+  "shortName": "Juniper",
+  "descriptor": "Event Management",
+  "address": "Kottakkal, Nannambra, Keralam 676508",
+  "area": "Kottakkal",
+  "city": "Kottakkal",
+  "district": "Malappuram",
+  "region": "Kerala",
+  "postalCode": "676508",
+  "geo": {
+    "lat": 11.010615699999999,
+    "lng": 75.9282181
+  },
+  "mapsLink": "https://maps.google.com/?cid=13289697381926212883",
+  "phone": "+91 80890 32007",
+  "whatsapp": "918089032007",
+  "instagram": "https://www.instagram.com/juniper_events",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 0,
+  "reviewCount": 0,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp"
+  ],
+  "url": "https://juniper-wedding-company-kottakkal.vercel.app"
+}
